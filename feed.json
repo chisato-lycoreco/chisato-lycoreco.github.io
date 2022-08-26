@@ -5,6 +5,16 @@
     "home_page_url": "https://chisato-lycoreco.github.io",
     "items": [
         {
+            "id": "https://chisato-lycoreco.github.io/2022/08/27/tech/programming/golang/golang1/",
+            "url": "https://chisato-lycoreco.github.io/2022/08/27/tech/programming/golang/golang1/",
+            "title": "从零开始的Go语言学习",
+            "date_published": "2022-08-26T16:37:33.151Z",
+            "content_html": "<p>阿巴阿巴</p>\n",
+            "tags": [
+                "golang"
+            ]
+        },
+        {
             "id": "https://chisato-lycoreco.github.io/2022/08/26/work/research/research1/",
             "url": "https://chisato-lycoreco.github.io/2022/08/26/work/research/research1/",
             "title": "NLP",
