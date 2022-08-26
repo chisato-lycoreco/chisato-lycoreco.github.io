@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chisato-lycoreco.github.io</id>
-    <title>Work &amp; Life • Posts by &#34;python&#34; category</title>
+    <title>Tech Blog • Posts by &#34;python&#34; category</title>
     <link href="https://chisato-lycoreco.github.io" />
     <updated>2022-08-26T15:38:57.824Z</updated>
     <category term="python" />
