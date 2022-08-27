@@ -1,31 +1,40 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chisato-lycoreco.github.io</id>
+    <id>http://yoursite.com</id>
     <title>Tech Blog</title>
-    <link href="https://chisato-lycoreco.github.io" />
+    <subtitle>一个普通上班族的日常随记</subtitle>
+    <icon>http://yoursite.com/images/favicon.ico</icon>
+    <link href="http://yoursite.com" />
+    <author>
+      <name>錦木 千束</name>
+    </author>
     <updated>2022-08-26T16:37:33.151Z</updated>
-    <category term="python" />
-    <category term="golang" />
+    <category term="关键词还没想好" />
     <entry>
-        <id>https://chisato-lycoreco.github.io/2022/08/27/tech/programming/golang/golang1/</id>
+        <id>http://yoursite.com/tech/programming/golang/golang1/</id>
         <title>从零开始的Go语言学习</title>
-        <link rel="alternate" href="https://chisato-lycoreco.github.io/2022/08/27/tech/programming/golang/golang1/"/>
+        <link rel="alternate" href="http://yoursite.com/tech/programming/golang/golang1/"/>
         <content type="html">&lt;p&gt;阿巴阿巴&lt;/p&gt;
 </content>
-        <category term="golang" />
+        <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+        <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+        <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
+        <category term="golang" scheme="http://yoursite.com/tags/golang/" />
         <updated>2022-08-26T16:37:33.151Z</updated>
     </entry>
     <entry>
-        <id>https://chisato-lycoreco.github.io/2022/08/26/work/research/research1/</id>
+        <id>http://yoursite.com/work/research/research1/</id>
         <title>NLP</title>
-        <link rel="alternate" href="https://chisato-lycoreco.github.io/2022/08/26/work/research/research1/"/>
+        <link rel="alternate" href="http://yoursite.com/work/research/research1/"/>
         <content type="html"></content>
+        <category term="工作心得" scheme="http://yoursite.com/categories/work/" />
+        <category term="研发线" scheme="http://yoursite.com/categories/work/research/" />
         <updated>2022-08-26T15:38:57.854Z</updated>
     </entry>
     <entry>
-        <id>https://chisato-lycoreco.github.io/2022/08/26/tech/programming/python/python1/</id>
+        <id>http://yoursite.com/tech/programming/python/python1/</id>
         <title>流言终结者之python性能优化技巧</title>
-        <link rel="alternate" href="https://chisato-lycoreco.github.io/2022/08/26/tech/programming/python/python1/"/>
+        <link rel="alternate" href="http://yoursite.com/tech/programming/python/python1/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;最近搬砖的工作涉及到很多基础的 python 策略代码，因此一时兴起上网查了查 python 代码优化的方案。&lt;br&gt;
 本文一方面是汇总一些提升代码性能的编码技巧，更主要的是验证它们有效与否，顺便试着推理它们有效或者无效的原因。&lt;/p&gt;
@@ -52,13 +61,16 @@
 &lt;h1 id=&#34;itertools模块&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#itertools模块&#34;&gt;#&lt;/a&gt;  &lt;code&gt;itertools&lt;/code&gt;  模块&lt;/h1&gt;
 &lt;h1 id=&#34;lru-cache缓存&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lru-cache缓存&#34;&gt;#&lt;/a&gt; LRU Cache 缓存&lt;/h1&gt;
 </content>
-        <category term="python" />
+        <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+        <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+        <category term="python" scheme="http://yoursite.com/categories/tech/programming/python/" />
+        <category term="python" scheme="http://yoursite.com/tags/python/" />
         <updated>2022-08-26T15:38:57.824Z</updated>
     </entry>
     <entry>
-        <id>https://chisato-lycoreco.github.io/2022/08/26/tech/AI/hello-world/</id>
+        <id>http://yoursite.com/tech/AI/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://chisato-lycoreco.github.io/2022/08/26/tech/AI/hello-world/"/>
+        <link rel="alternate" href="http://yoursite.com/tech/AI/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -73,16 +85,18 @@
         <updated>2022-08-26T15:38:57.819Z</updated>
     </entry>
     <entry>
-        <id>https://chisato-lycoreco.github.io/2022/08/26/entertainment/games/game1/</id>
+        <id>http://yoursite.com/entertainment/games/game1/</id>
         <title>PARQUET</title>
-        <link rel="alternate" href="https://chisato-lycoreco.github.io/2022/08/26/entertainment/games/game1/"/>
+        <link rel="alternate" href="http://yoursite.com/entertainment/games/game1/"/>
         <content type="html"></content>
+        <category term="摸鱼" scheme="http://yoursite.com/categories/entertainment/" />
+        <category term="游戏" scheme="http://yoursite.com/categories/entertainment/games/" />
         <updated>2022-08-26T15:38:57.794Z</updated>
     </entry>
     <entry>
-        <id>https://chisato-lycoreco.github.io/2022/08/26/hello-world/</id>
+        <id>http://yoursite.com/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://chisato-lycoreco.github.io/2022/08/26/hello-world/"/>
+        <link rel="alternate" href="http://yoursite.com/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -97,9 +111,9 @@
         <updated>2022-08-26T15:00:56.488Z</updated>
     </entry>
     <entry>
-        <id>https://chisato-lycoreco.github.io/2022/08/23/work/business/first%20month/</id>
+        <id>http://yoursite.com/work/business/first%20month/</id>
         <title>工作第一个月的心得分享</title>
-        <link rel="alternate" href="https://chisato-lycoreco.github.io/2022/08/23/work/business/first%20month/"/>
+        <link rel="alternate" href="http://yoursite.com/work/business/first%20month/"/>
         <content type="html">&lt;pre&gt;&lt;code&gt;大家好啊，我是千束(不是)。今年25岁，是一名就职于某BAT的研发工程师，一个普通上班族。
 一年一度，烂漫离披，似长江去浪。总是在回顾过往岁月的时候，才惊觉光阴流逝之快、之悄无声息。如果被问及过去的25年给我带来了什么，我也许会陷入长时间的恍惚吧。于是在这个微妙的节点，我临时起意，想要为接下来的人生留下一些痕迹。我并不是个善于表达的人，搭建这个个人博客一方面是为了复盘工作中遇到的问题和困难，另一方面是为了通过输出分享的方式提升自己的技术能力。但是出于保密的考虑，博客中的任何文章都不会涉及公司、部门和工作中的具体业务。
 写到这里的时候，我的另一个人格突然发问：“这种严肃的氛围到底要持续到什么时候啊？” 好吧我不装了。嘻嘻。
@@ -114,6 +128,8 @@
 （2）其次，无论是大小规模的会议还是工作汇报，作为演讲者，首先要明确的是在整个受众群体中谁才是你真正的目标客户，也就是“谁的认可对你而言最为重要”。然后才能有针对地设计你的演讲内容和逻辑。拿厂里的工作来举例，当你的直属领导和工友们坐在台下听你汇报工作的时候，你应该说些什么？如果你只是说螺丝是怎么拧的，工友们会觉得你是个实在人，能处。但领导不拧螺丝，也不想知道怎么拧螺丝，他可能更关心为什么要你拧螺丝，以及你的螺丝有什么用，那么他听完就只会觉得你这个人很捞，很短视，成不了大器。然后就是一个很简单也很现实的问题，领导和工友，你更需要谁的赏识？当然了，你完全可以全都要。但为了前途考虑，还是应该保住领导这块基本盘。
 &lt;/code&gt;&lt;/pre&gt;
 </content>
+        <category term="工作心得" scheme="http://yoursite.com/categories/work/" />
+        <category term="业务线" scheme="http://yoursite.com/categories/work/business/" />
         <updated>2022-08-22T17:38:40.000Z</updated>
     </entry>
 </feed>

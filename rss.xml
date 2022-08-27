@@ -2,34 +2,46 @@
 <rss version="2.0">
     <channel>
         <title>Tech Blog</title>
-        <link>https://chisato-lycoreco.github.io</link>
+        <subtitle>一个普通上班族的日常随记</subtitle>
+        <icon>http://yoursite.com/images/favicon.ico</icon>
+        <link>http://yoursite.com</link>
+        <author>
+          <name>錦木 千束</name>
+        </author>
         <description>LC2808</description>
         <language>zh-CN</language>
         <pubDate>Sat, 27 Aug 2022 00:37:33 +0800</pubDate>
         <lastBuildDate>Sat, 27 Aug 2022 00:37:33 +0800</lastBuildDate>
-        <category>python</category>
-        <category>golang</category>
+        <category term="关键词还没想好" />
         <item>
-            <guid isPermalink="true">https://chisato-lycoreco.github.io/2022/08/27/tech/programming/golang/golang1/</guid>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang1/</guid>
             <title>从零开始的Go语言学习</title>
-            <link>https://chisato-lycoreco.github.io/2022/08/27/tech/programming/golang/golang1/</link>
-            <category>golang</category>
+            <link>http://yoursite.com/tech/programming/golang/golang1/</link>
+            <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+            <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+            <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
+            <category term="golang" scheme="http://yoursite.com/tags/golang/" />
             <pubDate>Sat, 27 Aug 2022 00:37:33 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;阿巴阿巴&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://chisato-lycoreco.github.io/2022/08/26/work/research/research1/</guid>
+            <guid isPermalink="true">http://yoursite.com/work/research/research1/</guid>
             <title>NLP</title>
-            <link>https://chisato-lycoreco.github.io/2022/08/26/work/research/research1/</link>
+            <link>http://yoursite.com/work/research/research1/</link>
+            <category term="工作心得" scheme="http://yoursite.com/categories/work/" />
+            <category term="研发线" scheme="http://yoursite.com/categories/work/research/" />
             <pubDate>Fri, 26 Aug 2022 23:38:57 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://chisato-lycoreco.github.io/2022/08/26/tech/programming/python/python1/</guid>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/python/python1/</guid>
             <title>流言终结者之python性能优化技巧</title>
-            <link>https://chisato-lycoreco.github.io/2022/08/26/tech/programming/python/python1/</link>
-            <category>python</category>
+            <link>http://yoursite.com/tech/programming/python/python1/</link>
+            <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+            <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+            <category term="python" scheme="http://yoursite.com/categories/tech/programming/python/" />
+            <category term="python" scheme="http://yoursite.com/tags/python/" />
             <pubDate>Fri, 26 Aug 2022 23:38:57 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;最近搬砖的工作涉及到很多基础的 python 策略代码，因此一时兴起上网查了查 python 代码优化的方案。&lt;br&gt;
@@ -59,9 +71,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://chisato-lycoreco.github.io/2022/08/26/tech/AI/hello-world/</guid>
+            <guid isPermalink="true">http://yoursite.com/tech/AI/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://chisato-lycoreco.github.io/2022/08/26/tech/AI/hello-world/</link>
+            <link>http://yoursite.com/tech/AI/hello-world/</link>
             <pubDate>Fri, 26 Aug 2022 23:38:57 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -76,16 +88,18 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://chisato-lycoreco.github.io/2022/08/26/entertainment/games/game1/</guid>
+            <guid isPermalink="true">http://yoursite.com/entertainment/games/game1/</guid>
             <title>PARQUET</title>
-            <link>https://chisato-lycoreco.github.io/2022/08/26/entertainment/games/game1/</link>
+            <link>http://yoursite.com/entertainment/games/game1/</link>
+            <category term="摸鱼" scheme="http://yoursite.com/categories/entertainment/" />
+            <category term="游戏" scheme="http://yoursite.com/categories/entertainment/games/" />
             <pubDate>Fri, 26 Aug 2022 23:38:57 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://chisato-lycoreco.github.io/2022/08/26/hello-world/</guid>
+            <guid isPermalink="true">http://yoursite.com/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://chisato-lycoreco.github.io/2022/08/26/hello-world/</link>
+            <link>http://yoursite.com/hello-world/</link>
             <pubDate>Fri, 26 Aug 2022 23:00:56 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -100,9 +114,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://chisato-lycoreco.github.io/2022/08/23/work/business/first%20month/</guid>
+            <guid isPermalink="true">http://yoursite.com/work/business/first%20month/</guid>
             <title>工作第一个月的心得分享</title>
-            <link>https://chisato-lycoreco.github.io/2022/08/23/work/business/first%20month/</link>
+            <link>http://yoursite.com/work/business/first%20month/</link>
+            <category term="工作心得" scheme="http://yoursite.com/categories/work/" />
+            <category term="业务线" scheme="http://yoursite.com/categories/work/business/" />
             <pubDate>Tue, 23 Aug 2022 01:38:40 +0800</pubDate>
             <description><![CDATA[ &lt;pre&gt;&lt;code&gt;大家好啊，我是千束(不是)。今年25岁，是一名就职于某BAT的研发工程师，一个普通上班族。
 一年一度，烂漫离披，似长江去浪。总是在回顾过往岁月的时候，才惊觉光阴流逝之快、之悄无声息。如果被问及过去的25年给我带来了什么，我也许会陷入长时间的恍惚吧。于是在这个微妙的节点，我临时起意，想要为接下来的人生留下一些痕迹。我并不是个善于表达的人，搭建这个个人博客一方面是为了复盘工作中遇到的问题和困难，另一方面是为了通过输出分享的方式提升自己的技术能力。但是出于保密的考虑，博客中的任何文章都不会涉及公司、部门和工作中的具体业务。
