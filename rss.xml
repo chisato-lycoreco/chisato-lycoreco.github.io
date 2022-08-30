@@ -10,19 +10,44 @@
         </author>
         <description>LC2808</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 29 Aug 2022 23:36:17 +0800</pubDate>
-        <lastBuildDate>Mon, 29 Aug 2022 23:36:17 +0800</lastBuildDate>
+        <pubDate>Tue, 30 Aug 2022 23:41:32 +0800</pubDate>
+        <lastBuildDate>Tue, 30 Aug 2022 23:41:32 +0800</lastBuildDate>
         <category term="关键词还没想好" />
         <item>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang4/</guid>
+            <title>从零开始的Go语言学习——reflect反射篇</title>
+            <link>http://yoursite.com/tech/programming/golang/golang4/</link>
+            <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+            <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+            <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
+            <category term="golang" scheme="http://yoursite.com/tags/golang/" />
+            <pubDate>Tue, 30 Aug 2022 23:41:32 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang3/</guid>
+            <title>从零开始的Go语言学习——interface接口篇</title>
+            <link>http://yoursite.com/tech/programming/golang/golang3/</link>
+            <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+            <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+            <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
+            <category term="golang" scheme="http://yoursite.com/tags/golang/" />
+            <pubDate>Tue, 30 Aug 2022 23:40:41 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang2/</guid>
-            <title>从零开始的Go语言学习——面向对象篇</title>
+            <title>从零开始的Go语言学习——goroutine并发篇</title>
             <link>http://yoursite.com/tech/programming/golang/golang2/</link>
             <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
             <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
             <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
             <category term="golang" scheme="http://yoursite.com/tags/golang/" />
             <pubDate>Mon, 29 Aug 2022 23:36:17 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ &lt;h1 id=&#34;goroutine&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#goroutine&#34;&gt;#&lt;/a&gt; goroutine&lt;/h1&gt;
+&lt;h2 id=&#34;channel&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#channel&#34;&gt;#&lt;/a&gt; channel&lt;/h2&gt;
+&lt;h2 id=&#34;select-case&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#select-case&#34;&gt;#&lt;/a&gt; select-case&lt;/h2&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang1/</guid>

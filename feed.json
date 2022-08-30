@@ -7,11 +7,37 @@
     "home_page_url": "http://yoursite.com",
     "items": [
         {
+            "id": "http://yoursite.com/tech/programming/golang/golang4/",
+            "url": "http://yoursite.com/tech/programming/golang/golang4/",
+            "title": "从零开始的Go语言学习——reflect反射篇",
+            "date_published": "2022-08-30T15:41:32.173Z",
+            "content_html": "",
+            "tags": [
+                "技术分享",
+                "编程",
+                "Golang",
+                "golang"
+            ]
+        },
+        {
+            "id": "http://yoursite.com/tech/programming/golang/golang3/",
+            "url": "http://yoursite.com/tech/programming/golang/golang3/",
+            "title": "从零开始的Go语言学习——interface接口篇",
+            "date_published": "2022-08-30T15:40:41.993Z",
+            "content_html": "",
+            "tags": [
+                "技术分享",
+                "编程",
+                "Golang",
+                "golang"
+            ]
+        },
+        {
             "id": "http://yoursite.com/tech/programming/golang/golang2/",
             "url": "http://yoursite.com/tech/programming/golang/golang2/",
-            "title": "从零开始的Go语言学习——面向对象篇",
+            "title": "从零开始的Go语言学习——goroutine并发篇",
             "date_published": "2022-08-29T15:36:17.327Z",
-            "content_html": "",
+            "content_html": "<h1 id=\"goroutine\"><a class=\"anchor\" href=\"#goroutine\">#</a> goroutine</h1>\n<h2 id=\"channel\"><a class=\"anchor\" href=\"#channel\">#</a> channel</h2>\n<h2 id=\"select-case\"><a class=\"anchor\" href=\"#select-case\">#</a> select-case</h2>\n",
             "tags": [
                 "技术分享",
                 "编程",
