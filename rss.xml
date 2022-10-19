@@ -10,13 +10,46 @@
         </author>
         <description>LC2808</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 30 Aug 2022 23:41:32 +0800</pubDate>
-        <lastBuildDate>Tue, 30 Aug 2022 23:41:32 +0800</lastBuildDate>
+        <pubDate>Thu, 20 Oct 2022 02:06:19 +0800</pubDate>
+        <lastBuildDate>Thu, 20 Oct 2022 02:06:19 +0800</lastBuildDate>
         <category term="关键词还没想好" />
         <item>
-            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang4/</guid>
-            <title>从零开始的Go语言学习——reflect反射篇</title>
-            <link>http://yoursite.com/tech/programming/golang/golang4/</link>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/redis/</guid>
+            <title>从零开始的Go语言学习——Redis</title>
+            <link>http://yoursite.com/tech/programming/golang/redis/</link>
+            <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+            <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+            <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
+            <category term="golang" scheme="http://yoursite.com/tags/golang/" />
+            <pubDate>Thu, 20 Oct 2022 02:06:19 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/gorm/</guid>
+            <title>从零开始的Go语言学习——数据库</title>
+            <link>http://yoursite.com/tech/programming/golang/gorm/</link>
+            <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+            <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+            <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
+            <category term="golang" scheme="http://yoursite.com/tags/golang/" />
+            <pubDate>Thu, 20 Oct 2022 02:03:41 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/lock/</guid>
+            <title>从零开始的Go语言学习——锁机制</title>
+            <link>http://yoursite.com/tech/programming/golang/lock/</link>
+            <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
+            <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
+            <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
+            <category term="golang" scheme="http://yoursite.com/tags/golang/" />
+            <pubDate>Thu, 20 Oct 2022 02:01:30 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/concurrent_models/</guid>
+            <title>从零开始的Go语言学习——并发模型</title>
+            <link>http://yoursite.com/tech/programming/golang/concurrent_models/</link>
             <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
             <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
             <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
@@ -25,9 +58,9 @@
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang3/</guid>
-            <title>从零开始的Go语言学习——interface接口篇</title>
-            <link>http://yoursite.com/tech/programming/golang/golang3/</link>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/goroutine/</guid>
+            <title>从零开始的Go语言学习——协程goroutine</title>
+            <link>http://yoursite.com/tech/programming/golang/goroutine/</link>
             <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
             <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
             <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
@@ -36,9 +69,9 @@
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang2/</guid>
-            <title>从零开始的Go语言学习——goroutine并发篇</title>
-            <link>http://yoursite.com/tech/programming/golang/golang2/</link>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/language_features/</guid>
+            <title>从零开始的Go语言学习——语言特性</title>
+            <link>http://yoursite.com/tech/programming/golang/language_features/</link>
             <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
             <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
             <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
@@ -46,13 +79,13 @@
             <pubDate>Mon, 29 Aug 2022 23:36:17 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;goroutine&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#goroutine&#34;&gt;#&lt;/a&gt; goroutine&lt;/h1&gt;
 &lt;h2 id=&#34;channel&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#channel&#34;&gt;#&lt;/a&gt; channel&lt;/h2&gt;
-&lt;h2 id=&#34;select-case&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#select-case&#34;&gt;#&lt;/a&gt; select-case&lt;/h2&gt;
+&lt;h2 id=&#34;producer-consumer&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#producer-consumer&#34;&gt;#&lt;/a&gt; producer-consumer&lt;/h2&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/golang1/</guid>
-            <title>从零开始的Go语言学习——数据类型篇</title>
-            <link>http://yoursite.com/tech/programming/golang/golang1/</link>
+            <guid isPermalink="true">http://yoursite.com/tech/programming/golang/basic_data_types/</guid>
+            <title>从零开始的Go语言学习——基本数据类型</title>
+            <link>http://yoursite.com/tech/programming/golang/basic_data_types/</link>
             <category term="技术分享" scheme="http://yoursite.com/categories/tech/" />
             <category term="编程" scheme="http://yoursite.com/categories/tech/programming/" />
             <category term="Golang" scheme="http://yoursite.com/categories/tech/programming/golang/" />
